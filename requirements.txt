@@ -1,8 +1,0 @@
-fastapi==0.115.0
-uvicorn==0.32.0
-requests==2.32.3
-pydantic==2.9.2
-sentence-transformers==3.0.1
-chromadb==0.6.3
-numpy==1.26.4
-tqdm==4.67.1
