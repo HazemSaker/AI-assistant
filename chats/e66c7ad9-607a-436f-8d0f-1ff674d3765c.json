@@ -1,0 +1,18 @@
+{
+  "id": "e66c7ad9-607a-436f-8d0f-1ff674d3765c",
+  "title": "Chat 2026-05-06 09:03",
+  "created_at": "2026-05-06T09:03:05.552304",
+  "updated_at": "2026-05-06T09:03:05.585856",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello",
+      "timestamp": "2026-05-06T09:03:05.575720"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! It's great to connect with you. I'm here to assist with any tech-related questions or issues you might have. What can I help you with today?",
+      "timestamp": "2026-05-06T09:03:05.585856"
+    }
+  ]
+}

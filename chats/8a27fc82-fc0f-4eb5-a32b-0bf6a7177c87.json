@@ -1,0 +1,23 @@
+{
+  "id": "8a27fc82-fc0f-4eb5-a32b-0bf6a7177c87",
+  "title": "Chat 2026-05-07 08:12",
+  "created_at": "2026-05-07T08:12:36.835893",
+  "updated_at": "2026-05-07T08:12:45.690814",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "I'm ManHas, your AI technical support assistant! Based on our conversation just started, I don't have any information about your specific question or issue yet. Please go ahead and ask me anything, and I'll do my best to assist you with a clear and accurate answer. What's your first question?",
+      "timestamp": "2026-05-07T08:12:42.611873"
+    },
+    {
+      "role": "user",
+      "content": "what is my first question",
+      "timestamp": "2026-05-07T08:12:45.683353"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm ManHas, your AI technical support assistant! Based on our conversation just started, I don't have any information about your specific question or issue yet. Please go ahead and ask me anything, and I'll do my best to assist you with a clear and accurate answer. What's your first question?",
+      "timestamp": "2026-05-07T08:12:45.690814"
+    }
+  ]
+}

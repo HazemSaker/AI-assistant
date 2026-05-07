@@ -1,0 +1,38 @@
+{
+  "id": "09c89a83-7713-4556-9c13-7dd92df84602",
+  "title": "Chat 2026-05-06 12:49",
+  "created_at": "2026-05-06T12:49:42.470725",
+  "updated_at": "2026-05-06T12:54:35.858011",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what is your name",
+      "timestamp": "2026-05-06T12:49:42.479642"
+    },
+    {
+      "role": "assistant",
+      "content": "My name is MaNHaS, which is an acronym for \"Multi-Agent Network for Human-Computer Interaction and Support.\" I was created by Hazem Saker and Majd Nasser.",
+      "timestamp": "2026-05-06T12:49:47.388365"
+    },
+    {
+      "role": "user",
+      "content": "what is your name",
+      "timestamp": "2026-05-06T12:54:25.023289"
+    },
+    {
+      "role": "assistant",
+      "content": "My name is MaNHaS, which stands for \"Multi-Agent Network for Human-Computer Interaction and Support.\"",
+      "timestamp": "2026-05-06T12:54:28.105551"
+    },
+    {
+      "role": "user",
+      "content": "what is my last question",
+      "timestamp": "2026-05-06T12:54:29.741305"
+    },
+    {
+      "role": "assistant",
+      "content": "I don't have an answer to your question because you haven't asked a previous question. Our conversation started with your first question \"what is your name\", which I answered by introducing myself as MaNHaS. Your second question was also about my name, and your third question is this one \"what is my last question\". Since there are no previous questions to refer to, I don't have a last question to report.",
+      "timestamp": "2026-05-06T12:54:35.858011"
+    }
+  ]
+}

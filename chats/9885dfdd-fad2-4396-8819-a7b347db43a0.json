@@ -1,0 +1,18 @@
+{
+  "id": "9885dfdd-fad2-4396-8819-a7b347db43a0",
+  "title": "Chat 2026-05-06 11:39",
+  "created_at": "2026-05-06T11:39:51.891945",
+  "updated_at": "2026-05-06T11:40:18.717278",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what is your name",
+      "timestamp": "2026-05-06T11:40:18.697206"
+    },
+    {
+      "role": "assistant",
+      "content": "My name is MaNHaS, which stands for \"Mechanical Assistant for Natural Help Systems\". I was created by my developers, Hazem Saker and Majd Nasser.",
+      "timestamp": "2026-05-06T11:40:18.717278"
+    }
+  ]
+}

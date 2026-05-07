@@ -1,0 +1,28 @@
+{
+  "id": "22c9d7e8-86ba-4f48-b4aa-15b0bb7996da",
+  "title": "Chat 2026-05-07 08:16",
+  "created_at": "2026-05-07T08:16:53.115497",
+  "updated_at": "2026-05-07T08:17:02.003458",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what is my first question",
+      "timestamp": "2026-05-07T08:16:53.130463"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm MaNHaS, an intelligent AI technical support assistant. I don't have any prior knowledge about you or your questions, so I'll start from scratch!\n\nTo get started, could you please tell me what brings you here today? What kind of technical issue are you facing or what kind of assistance do you need help with?",
+      "timestamp": "2026-05-07T08:16:58.998247"
+    },
+    {
+      "role": "user",
+      "content": "what is my first question",
+      "timestamp": "2026-05-07T08:17:01.995501"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm MaNHaS, an intelligent AI technical support assistant. I don't have any prior knowledge about you or your questions, so I'll start from scratch!\n\nTo get started, could you please tell me what brings you here today? What kind of technical issue are you facing or what kind of assistance do you need help with?",
+      "timestamp": "2026-05-07T08:17:02.003458"
+    }
+  ]
+}

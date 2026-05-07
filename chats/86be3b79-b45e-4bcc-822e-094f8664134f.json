@@ -1,0 +1,18 @@
+{
+  "id": "86be3b79-b45e-4bcc-822e-094f8664134f",
+  "title": "Chat 2026-05-06 09:59",
+  "created_at": "2026-05-06T09:59:10.605583",
+  "updated_at": "2026-05-06T09:59:33.397775",
+  "messages": [
+    {
+      "role": "user",
+      "content": "can u write me a python code for adding two numbers",
+      "timestamp": "2026-05-06T09:59:33.374957"
+    },
+    {
+      "role": "assistant",
+      "content": "Easy peasy!\n\nHere's a simple Python function to add two numbers:\n```\ndef add_numbers(a, b):\n    return a + b\n```\nYou can use this function like this:\n```\nresult = add_numbers(2, 3)\nprint(result)  # Output: 5\n```\nWant to learn more about functions in Python or have any questions?",
+      "timestamp": "2026-05-06T09:59:33.397775"
+    }
+  ]
+}

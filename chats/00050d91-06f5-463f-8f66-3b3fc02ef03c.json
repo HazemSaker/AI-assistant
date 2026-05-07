@@ -1,0 +1,33 @@
+{
+  "id": "00050d91-06f5-463f-8f66-3b3fc02ef03c",
+  "title": "Chat 2026-05-06 13:20",
+  "created_at": "2026-05-06T13:20:04.466461",
+  "updated_at": "2026-05-06T13:20:40.946485",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "Error connecting to Ollama: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B64AAE47C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))",
+      "timestamp": "2026-05-06T13:20:12.576532"
+    },
+    {
+      "role": "assistant",
+      "content": "Error connecting to Ollama: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B64AAE5B70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))",
+      "timestamp": "2026-05-06T13:20:24.701077"
+    },
+    {
+      "role": "assistant",
+      "content": "Error connecting to Ollama: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B64AAE7C40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))",
+      "timestamp": "2026-05-06T13:20:36.871695"
+    },
+    {
+      "role": "user",
+      "content": "who are u",
+      "timestamp": "2026-05-06T13:20:40.928427"
+    },
+    {
+      "role": "assistant",
+      "content": "Error connecting to Ollama: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B64AAE47C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))",
+      "timestamp": "2026-05-06T13:20:40.946485"
+    }
+  ]
+}

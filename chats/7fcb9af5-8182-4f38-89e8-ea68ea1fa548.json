@@ -1,0 +1,18 @@
+{
+  "id": "7fcb9af5-8182-4f38-89e8-ea68ea1fa548",
+  "title": "Chat 2026-05-06 09:02",
+  "created_at": "2026-05-06T09:02:25.367921",
+  "updated_at": "2026-05-06T09:02:25.401435",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello",
+      "timestamp": "2026-05-06T09:02:25.386727"
+    },
+    {
+      "role": "assistant",
+      "content": "Error connecting to Ollama: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000270CB4C8670>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))",
+      "timestamp": "2026-05-06T09:02:25.401435"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "255decc2-b08b-40de-bc90-c29267a34df6",
+  "title": "Chat 2026-05-06 12:42",
+  "created_at": "2026-05-06T12:42:35.734872",
+  "updated_at": "2026-05-06T12:42:45.366464",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "Welcome! I'm happy to chat with you. This is actually our conversation starting point, so neither this nor any previous message counts as a \"second\" or \"first\". Let's start fresh! What brings you here today? Do you have a technical question or need help with something specific?",
+      "timestamp": "2026-05-06T12:42:42.273351"
+    },
+    {
+      "role": "user",
+      "content": "so is this the second prompt or the first",
+      "timestamp": "2026-05-06T12:42:45.359896"
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome! I'm happy to chat with you. This is actually our conversation starting point, so neither this nor any previous message counts as a \"second\" or \"first\". Let's start fresh! What brings you here today? Do you have a technical question or need help with something specific?",
+      "timestamp": "2026-05-06T12:42:45.366464"
+    }
+  ]
+}

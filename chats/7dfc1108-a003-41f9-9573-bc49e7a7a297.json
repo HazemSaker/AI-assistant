@@ -1,0 +1,18 @@
+{
+  "id": "7dfc1108-a003-41f9-9573-bc49e7a7a297",
+  "title": "Chat 2026-05-06 11:46",
+  "created_at": "2026-05-06T11:46:48.449283",
+  "updated_at": "2026-05-06T11:47:18.633745",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what is your name",
+      "timestamp": "2026-05-06T11:47:18.607331"
+    },
+    {
+      "role": "assistant",
+      "content": "My name is MaNHaS (pronounced \"man-has\"). I am an intelligent AI technical support assistant, created by Hazem Saker and Majd Nasser.",
+      "timestamp": "2026-05-06T11:47:18.633745"
+    }
+  ]
+}

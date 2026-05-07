@@ -1,0 +1,18 @@
+{
+  "id": "32221737-f423-41b1-ae32-2553c22df183",
+  "title": "Chat 2026-05-06 11:40",
+  "created_at": "2026-05-06T11:40:57.679338",
+  "updated_at": "2026-05-06T11:41:33.848189",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what is the question i asked first",
+      "timestamp": "2026-05-06T11:41:33.821577"
+    },
+    {
+      "role": "assistant",
+      "content": "You haven't asked me any questions yet. This conversation just started, and I'm ready to assist you with any technical support or development-related queries you may have. Please go ahead and ask your first question!",
+      "timestamp": "2026-05-06T11:41:33.848189"
+    }
+  ]
+}

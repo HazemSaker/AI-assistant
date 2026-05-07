@@ -1,0 +1,33 @@
+{
+  "id": "ae1625c5-52ea-47d4-8689-5b378f9309f0",
+  "title": "Chat 2026-05-06 12:43",
+  "created_at": "2026-05-06T12:43:28.484586",
+  "updated_at": "2026-05-06T12:43:54.592549",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "Your first question for me was \"You are a helpful AI assistant for technical support and developers. Answer the question based on the context below.\"",
+      "timestamp": "2026-05-06T12:43:33.873051"
+    },
+    {
+      "role": "assistant",
+      "content": "Your first question for me was \"You are a helpful AI assistant for technical support and developers. Answer the question based on the context below.\"",
+      "timestamp": "2026-05-06T12:43:42.557954"
+    },
+    {
+      "role": "assistant",
+      "content": "The first question you asked me was \"You are a helpful AI assistant for technical support and developers. Answer the question based on the context below.\"",
+      "timestamp": "2026-05-06T12:43:51.180643"
+    },
+    {
+      "role": "user",
+      "content": "what is the first question i asked u",
+      "timestamp": "2026-05-06T12:43:54.585229"
+    },
+    {
+      "role": "assistant",
+      "content": "Your first question for me was \"You are a helpful AI assistant for technical support and developers. Answer the question based on the context below.\"",
+      "timestamp": "2026-05-06T12:43:54.592549"
+    }
+  ]
+}
